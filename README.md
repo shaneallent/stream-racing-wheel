@@ -4,7 +4,6 @@ Don't have 3 cameras to be showing wheel and pedals? This react application lets
 
 ### Use Online
 
-[https://joetex.github.io/stream-racing-wheel/](https://joetex.github.io/stream-racing-wheel/)
 
 ### Watch Example Preview
 
